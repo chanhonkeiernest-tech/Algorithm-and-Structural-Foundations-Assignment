@@ -1,0 +1,9 @@
+Diffuculties:
+
+-Since js doesn't really have any data type casting, I have to resolve using different name for method with same purpose in different class. 
+-Also js doesn't highlight any undeclared varaible or method, it is very hard to spot typo without running each of the method.
+-Due to the inability to set method private like in object oriented programming, I have to hope that people do not abuse any helper method that's intented to be use internally.
+
+
+Wins:
+-Since some methods such as set childern and set parent are the same, but role reversed, I can use recursive concept of save space and time copying the same code.
